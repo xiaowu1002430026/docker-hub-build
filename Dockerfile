@@ -1,1 +1,1 @@
-FROM gcr.io/google-containers/fluentd-elasticsearch:v2.3.1
+FROM quay.io/coreos/hyperkube:v1.7.6_coreos.0
