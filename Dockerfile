@@ -1,1 +1,1 @@
-FROM quay.io/coreos/hyperkube:v1.7.6_coreos.0
+FROM quay.io/kubernetes-ingress-controller/nginx-ingress-controller:0.21.0
