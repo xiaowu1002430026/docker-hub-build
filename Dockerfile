@@ -1,1 +1,1 @@
-FROM quay.io/coreos/flannel:v0.10.0-amd64
+FROM quay.io/calico/node:v3.3.2
