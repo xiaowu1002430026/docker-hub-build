@@ -1,1 +1,1 @@
-FROM quay.io/calico/typha:v3.4.0
+FROM gcr.io/google_containers/metrics-server-amd64
