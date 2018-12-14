@@ -1,1 +1,1 @@
-FROM gcr.io/google_containers/metrics-server-amd64:v0.3.1
+FROM gcr.io/kubernetes-helm/tiller:v2.11.0
