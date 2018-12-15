@@ -1,1 +1,1 @@
-FROM gcr.io/google_containers/metrics-server-amd64:v0.3.1
+FROM quay.io/external_storage/nfs-client-provisioner:v3.1.0-k8s1.11
