@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/defaultbackend:1.4
+FROM gcr.io/google_containers/metrics-server-amd64:v0.3.1
