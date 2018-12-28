@@ -1,1 +1,1 @@
-FROM gcr.io/knative-releases/github.com/knative/serving/cmd/queue@sha256:df0b85347195877985d4ce91daf002febeec50c2d845b58a0a7093d8cdc7c34e
+FROM gcr.io/distroless/base:latest
