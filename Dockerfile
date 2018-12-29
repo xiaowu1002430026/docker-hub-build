@@ -1,1 +1,1 @@
-FROM gcr.io/cloud-builders/mvn
+FROM gcr.io/distroless/java
