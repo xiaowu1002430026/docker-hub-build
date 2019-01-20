@@ -1,1 +1,1 @@
-FROM quay.io/helmpack/monocular-ui:v1.2.0
+FROM gcr.io/google-containers/hyperkube:v1.13.1
